@@ -1,0 +1,17 @@
+1. Output purpose of code
+2. Prompt user to enter name of first item with "Please enter the name of the first item you wish to purchase:"
+3. Intake name of first item from user
+4. Prompt user to enter number of units of first item with "Please enter the number of units of " + item name + " you wish to purchase:"
+5. Intake number of units of first item from user
+6. Prompt user to enter price per unit of first item with "Please enter the price per unit of " + item name + ":"
+7. Intake price per unit of first item
+8. Calculate total price of first item by multiplying number of units by price per unit
+9. Prompt user to enter name of second item with "Please enter the name of the second item you wish to purchase:"
+10. Intake name of second item from user
+11. Prompt user to enter number of units of second item with "How many units of " + item name + " did you purchase?"
+12. Intake number of units of second item from user
+13. Prompt user to enter price per unit of second item with "Please enter the price per unit of " + item name + ":"
+14. Intake price per unit of second item
+15. Calculate total price of second item by multiplying number of units by price per unit
+16. Calculate total price of both items by adding the total prices of item one and item two
+17. Output final receipt listing the name, unit, price per unit, and total price of each item followed by the total of both
